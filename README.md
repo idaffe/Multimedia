@@ -3,7 +3,7 @@ README
 
 Project analysis, User profile
 
-Nom: Xavi Builla Edat: 25 anys 
+Nom: Ismael Daffe Edat: 25 anys 
 
 Ocupació: Estudiant d'Enginyeria Informàtica 
 Necessitats: Necessita un currículum vitae ben dissenyat per sol·licitar feines temporals durant l'estiu 
@@ -22,3 +22,6 @@ Hem optat per un disseny visual simple i net per assegurar que la informació de
 
 Link to the Figma project
 https://www.figma.com/design/jBKjtLe6NqrGrUO5c8PARf/Untitled?node-id=2-6&t=O70sFcLvhsPCfCZO-1
+
+Link to the Github Pages:
+https://idaffe.github.io/Multimedia/
